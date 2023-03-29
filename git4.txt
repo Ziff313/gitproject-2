@@ -2,6 +2,3 @@ The following are the working areas in local Git Repo
 1. Working area
 2. Staging area
 3. Commit area
-
-Let's now learn about Remote Repos
-
